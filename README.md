@@ -42,10 +42,10 @@ Choose Win32 app
 Upload the .intunewin file generated in Step 3
 
 ### 5. Configure App Settings and Assign the App
-Assign the app to the test user group 
+Assign the app to the correct user group (I used a MAM group I assigned test users to)
 
 ### 6. Sync and verify
-on the VM, go to 
+on the VM of a test user, go to 
 ```Settings > Accounts > Work or School Account > Info > Sync```
 Chrome automatically appeared on the desktop after a few minutes 🎉
 
